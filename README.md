@@ -63,7 +63,7 @@ The data is loaded to MSSQL Server from csv file.
 
 - The youngest customer is 16 years old, and the oldest is 63. There is a significant prevalence of female customers (~ 2:1). Distributions of female customers by Age Groups are similar to the male customers, with slight differences in hundreds. The Total Revenue is equal to 1,824,716.20, and the Total Number of Purchases is 262 689. The smallest income is from customers Under 18, and the most profitable clients are aged 26 to 45. 
 
-![Customers' count, revenue, n_purchases Dashboard](Online_Retail_insights/images/Customers'%20count,%20revenue,%20n_purchases.jpg "A screenshot showing the Customers' count, revenue, n_purchases.") 
+![Customers' count, revenue, n_purchases Dashboard](images/Customers'%20count,%20revenue,%20n_purchases.jpg "A screenshot showing the Customers' count, revenue, n_purchases.") 
 
 
 -  The peak last Purchase Revenue 3816.90 was observed on September 12, 2021, and the smallest value 2180.39 was on September 17, 2021. 
