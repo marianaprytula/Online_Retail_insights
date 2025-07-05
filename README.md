@@ -69,12 +69,12 @@ The data is loaded to MSSQL Server from csv file.
 -  The peak last Purchase Revenue 3816.90 was observed on September 12, 2021, and the smallest value 2180.39 was on September 17, 2021. 
 January and December were the most profitable months, while in February the smallest value of income was noticed. So maybe it depends on the day's amount in February, but it can be a sign to provide some newsletters or other ways to encourage customers to buy products.
 
-![Last Purchases by dates Dashboard](Online_Retail_insights/images/Purchases%20by%20dates.jpg "A screenshot showing the Purchases by dates.")
+![Last Purchases by dates Dashboard](images/Purchases%20by%20dates.jpg "A screenshot showing the Purchases by dates.")
  
 -  There are four payment methods that customers can use. The most popular method is card, followed by digital wallets and PayPal, while the other methods category is used the least by each Age Group Category.
 The donut charts show that there is a similar pattern in chosen Payment methods by women and men. The Total Revenue is relevant to the order of the Used Payment Method percentage.
 
-![Payment methods Dashboard](Online_Retail_insights/images/Payment%20methods.jpg "A screenshot showing the Payment methods data.") 
+![Payment methods Dashboard](images/Payment%20methods.jpg "A screenshot showing the Payment methods data.") 
 
 -  Chrome is the most popular Browser for making purchases, which is used by 63.95% of customers. Only 5.13% of clients use the Edge browser.
 The visual displaying the Average Time needed for selecting products and making a purchase shows that the smallest value is for Chrome, with a difference of 1-3 seconds for other browsers. For Safari browser, the average time is the largest and equal to 601.03, which can illustrate some drawbacks in the website's productivity or problems with UI/UX.
@@ -82,7 +82,7 @@ The chart shows that a very small number of customers are subscribed to the News
 Compared to a Newsletter subscription, a slightly better picture is displayed for using vouchers.
 
 
-![Browser & time spent for purchase, newsletters & vouchers Dashboard](Online_Retail_insights/images/Browser%20&%20time%20spent%20for%20purchase,%20newsletters%20&%20vouchers.jpg "A screenshot showing the Browser & time spent for purchase, newsletters & vouchers info.") 
+![Browser & time spent for purchase, newsletters & vouchers Dashboard](images/Browser%20&%20time%20spent%20for%20purchase,%20newsletters%20&%20vouchers.jpg "A screenshot showing the Browser & time spent for purchase, newsletters & vouchers info.") 
 
 
 ---
