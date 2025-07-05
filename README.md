@@ -92,7 +92,7 @@ Compared to a Newsletter subscription, a slightly better picture is displayed fo
 
 ### Clone this Repository
 ```bash
-git clone https://github.com/marianaprytula/housing_market_dataset_analysis.git
+git clone https://github.com/marianaprytula/Online_Retail_insights.git
 ```
 
 ### Load data from csv via 'import flat file' in the Microsoft SQL Server.
